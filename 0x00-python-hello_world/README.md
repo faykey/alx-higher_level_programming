@@ -13,8 +13,9 @@
 
 
 <br>
-General
+<h2>General</h2>
 <br>
+<em>
 Why Python programming is awesome
 <br>
 Who created Python
@@ -34,4 +35,5 @@ How to use strings
 What are indexing and slicing in Python
 <br>
 What is the official Python coding style and how to check your code with pycodestyle
+</em>
 #
