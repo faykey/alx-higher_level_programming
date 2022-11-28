@@ -3,6 +3,7 @@ Python
 
 <h1>RESOURCES</h1>
 <br>
+
 - [python programming](https://alx-intranet.hbtn.io/concepts/550)
 <p> </p>
 <h1>Learning Objectives</h1>
@@ -12,7 +13,7 @@ Python
 
 
 <br>
-General
+<strong>General
 <br>
 Why Python programming is awesome
 <br>
@@ -33,4 +34,5 @@ How to use strings
 What are indexing and slicing in Python
 <br>
 What is the official Python coding style and how to check your code with pycodestyle
+</strong>
 #
