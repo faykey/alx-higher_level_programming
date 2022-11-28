@@ -3,7 +3,7 @@ Python
 
 <h1>RESOURCES</h1>
 <br>
-- [python programming](https://alx-intranet.hbtn.io/concepts/550)
+-[ python programming ](https://alx-intranet.hbtn.io/concepts/550)
 <p> </p>
 <h1>Learning Objectives</h1>
 <br>
