@@ -1,5 +1,5 @@
-0. Python - Hello, World
-Python 
+<h1>0. Python - Hello, World</h1>
+<h2>Python</h2>
 
 <h1>RESOURCES</h1>
 <br>
